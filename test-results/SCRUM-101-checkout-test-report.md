@@ -146,4 +146,4 @@ No se identificaron defectos bloqueantes, críticos ni de severidad alta o media
 - [x] Scripts de prueba automatizados creados y pasando
 - [x] Resultados de pruebas documentados
 - [x] Bugs registrados para cualquier fallo (ninguno encontrado)
-- [ ] Código comprometido en el repositorio (Paso 7)
+- [x] Código comprometido en el repositorio (Paso 7)
