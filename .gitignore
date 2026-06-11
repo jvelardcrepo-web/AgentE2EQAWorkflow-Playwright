@@ -1,0 +1,16 @@
+# Playwright
+node_modules/
+/test-results/*
+!/test-results/SCRUM-101-checkout-test-report.md
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Secrets
+.env
+.vscode/mcp.json
+
+# Local tooling artifacts
+.claude/
+.playwright-mcp/
